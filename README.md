@@ -7,7 +7,7 @@ Currently expanding my skills into **backend development** to become a well-roun
 
 <!-- Coder GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp" 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="Professional coding gif" 
        width="100%" 
        height="300"
