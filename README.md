@@ -52,6 +52,5 @@ Currently expanding my skills into **backend development** to become a well-roun
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/shubham-singh-5b9521330)
 * 🐙 [GitHub](https://github.com/0shubhamit)
-* ✉️ Email: *[your\_email@example.com](mailto:your_email@example.com)*
 
 ---
