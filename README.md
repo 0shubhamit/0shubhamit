@@ -14,12 +14,6 @@ Currently expanding my skills into **backend development** to become a well-roun
        style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);"/>
 </p>
 
-
-
-
-
-
-
 ---
 
 ## 💡 About Me
