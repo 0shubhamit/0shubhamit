@@ -14,11 +14,11 @@ Currently expanding my skills into **backend development** to become a well-roun
 
 ## 💡 About Me
 
-🌱 Deepening my knowledge of **backend technologies** (Node.js, Express, MongoDB, MySQL)  
 ⚛️ Strong foundation in **React.js** for building scalable UIs  
 🔗 Exploring **API development, authentication, and database management**  
 📈 Interested in designing **end-to-end web solutions** that solve real-world challenges  
 🤝 Open to collaborating on full-stack projects and open-source contributions  
+🌱 Deepening my knowledge of **backend technologies** (Node.js, Express, MongoDB, MySQL)
 🎯 Goal: To grow into a **skilled Full-Stack JavaScript Developer**  
 
 ---
