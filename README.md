@@ -4,7 +4,7 @@
 🌍 Based in Bharatpur, Rajasthan, India  
 
 ## 🛠 Skills
-- React.js | JavaScript | HTML | CSS  
+- React.js | JavaScript | HTML | CSS | MATERIAL UI | BOOTSTRAP | TAILWIND CSS 
 - Node.js | Firebase  
 
 ## 📫 Connect with Me
