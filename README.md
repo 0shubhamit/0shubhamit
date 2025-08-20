@@ -6,13 +6,12 @@ Currently expanding my skills into **backend development** to become a well-roun
 ---
 
 <!-- Coder GIF -->
-<div align="center" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4); overflow: hidden; width: 100%; height: 300px;">
+<div align="center" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4); overflow: hidden; width: 100%; max-width: 900px; margin: auto;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="Professional coding gif" 
        width="100%" 
        height="300"/>
 </div>
-
 
 ---
 
@@ -22,7 +21,7 @@ Currently expanding my skills into **backend development** to become a well-roun
 🔗 Exploring **API development, authentication, and database management**  
 📈 Interested in designing **end-to-end web solutions** that solve real-world challenges  
 🤝 Open to collaborating on full-stack projects and open-source contributions  
-🌱 Deepening my knowledge of **backend technologies** (Node.js, Express, MongoDB, MySQL)
+🌱 Deepening my knowledge of **backend technologies** (Node.js, Express, MongoDB, MySQL)  
 🎯 Goal: To grow into a **skilled Full-Stack JavaScript Developer**  
 
 ---
@@ -42,18 +41,25 @@ Currently expanding my skills into **backend development** to become a well-roun
 ---
 
 ## 📊 Language Insights
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0shubhamit&layout=compact&theme=radical" alt="Top Languages" width="100%" height="300"/>
-</p>
+<div align="center" style="width: 100%; max-width: 900px; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0shubhamit&layout=compact&theme=radical&hide_border=false&langs_count=10"
+       alt="Top Languages"
+       width="100%"
+       height="auto"/>
+</div>
 
 ---
 
 ## 📊 GitHub Insights
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=0shubhamit&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" height="300"/>
-</p>
+<div align="center" style="width: 100%; max-width: 900px; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=0shubhamit&show_icons=true&theme=radical&hide_border=false"
+       alt="GitHub Stats"
+       width="100%"
+       height="auto"/>
+</div>
 
 ---
+
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-singh-5b9521330" target="_blank">
