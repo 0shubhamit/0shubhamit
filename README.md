@@ -45,16 +45,16 @@ Currently expanding my skills into **backend development** to become a well-roun
 
 ---
 
-## 📊 GitHub Insights
+## 📊 Language Insights
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=0shubhamit&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0shubhamit&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📊 Language Insights
+## 📊 GitHub Insights
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0shubhamit&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0shubhamit&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
