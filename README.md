@@ -7,7 +7,7 @@ Currently expanding my skills into **backend development** to become a well-roun
 
 <!-- Coder GIF -->
 <div align="center" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4); overflow: hidden; width: 100%; height: 300px;">
-  <img src="[https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="Professional coding gif" 
        width="100%" 
        height="300"/>
