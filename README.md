@@ -6,13 +6,13 @@ Currently expanding my skills into **backend development** to become a well-roun
 ---
 
 <!-- Coder GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<div align="center" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4); overflow: hidden; width: 100%; height: 300px;">
+  <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp" 
        alt="Professional coding gif" 
        width="100%" 
-       height="300"
-       style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);"/>
-</p>
+       height="300"/>
+</div>
+
 
 ---
 
