@@ -10,8 +10,9 @@ Currently expanding my skills into **backend development** to become a well-roun
   <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp" 
        alt="Professional coding gif" 
        width="100%" 
-       height="auto"/>
+       height="300"/>
 </p>
+
 
 
 
