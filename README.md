@@ -46,15 +46,18 @@ Currently expanding my skills into **backend development** to become a well-roun
 ---
 
 ## 📊 GitHub Insights
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=0shubhamit&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0shubhamit&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
+## 📊 Language Insights
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0shubhamit&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-singh-5b9521330" target="_blank">
