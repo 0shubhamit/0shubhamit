@@ -7,11 +7,13 @@ Currently expanding my skills into **backend development** to become a well-roun
 
 <!-- Coder GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRtbXJtdnVjZ2x4MW9jdXNua2Q1dW5xZjkzN3AwYnRqaDY4N2lzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.webp" 
+  <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp" 
        alt="Professional coding gif" 
        width="100%" 
-       height="300"/>
+       height="300"
+       style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);"/>
 </p>
+
 
 
 
